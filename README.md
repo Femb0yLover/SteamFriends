@@ -17,7 +17,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name              | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/5b69ce40c35a9d370324beb64a3e57852926c1ed.jpg) | LunaX 🌙           | [76561198029060417](https://steamcommunity.com/profiles/76561198029060417/) | ❌           | 2026-01-26 15:57:34 | 2026-01-27 18:53:18 |          |
+
 | ![](https://avatars.steamstatic.com/fc379b332ff28815c23f66ef9857517f4d6097b0.jpg) | jojo              | [76561198339936946](https://steamcommunity.com/profiles/76561198339936946/) | ✅           | 2024-07-11 13:42:14 |                     |          |
 | ![](https://avatars.steamstatic.com/15d73d69ba20874fb1d66bbbed8985ce82bf3ada.jpg) | Маргарита         | [76561198114435955](https://steamcommunity.com/profiles/76561198114435955/) | ✅           | 2020-03-10 11:19:41 |                     |          |
 | ![](https://avatars.steamstatic.com/04d42aabd118e448f5335d8a7827b0995a48def1.jpg) | 林檎                | [76561198149261107](https://steamcommunity.com/profiles/76561198149261107/) | ✅           | 2017-11-22 22:20:14 |                     |          |
